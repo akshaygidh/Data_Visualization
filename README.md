@@ -59,17 +59,25 @@ We try to compare Beacon Hill with South Boston, as it is considered as one of t
 
 E- Elaborate | N - Normal | S - Sub Standard
 
-We compare the interior finishes where we find
+We compare the interior finishes where we find all the residences have Normal finish in South Boston, whereas Beacon Hill has majority of Elaborate finishes. Whcih can be one of the factors for less cost per square feet.
 
 ![7](Images/kitchenstyle.jpg)
 
+L - Luxury | M - Modern | S - Semi Modern | N - None
 
+In terms of Kitchen style, we find kitchen finishes to be average for South Boston contrasting to Luxury finishes for Beacon Hill. We can infer this factor which leads to low cost per square feet as well as people who are opting to stay are not heavily dependant on using kitchen.
 
 ![8](Images/typeheat.jpg)
 
+E - Electric | F - Forced Air | S - Space Heater | P - Heat Pump | W - Hot Water | O - Other | N - None
 
+Residencial heat is very important specially in Boston where winters are extremely cold. Majority of South Boston have heating through hot water which is considered very economial in terms of maintainence and cost. Whereas, Beacon Hill has forced air heating which is individual to every apartment and can be controlled as per ones requirement. 
 
 ![9](Images/overall.jpg)
+
+E - Excellent | G - Good | A - Average | F - Fair | P - Poor
+
+This is very important factor on which price of the apartment is based on, as majority of residences in South Boston have Average condition. Whereaas, Beacon hill ~ 85% of residences have good or excellent condition. 
 
 -----------------------------------------------------------------------
 Conclusion
