@@ -18,3 +18,7 @@ Outcome methods
 Conclusion
 
 Reference
+
+----------------------------------------
+
+![landuse](Images/land use.jpg)
