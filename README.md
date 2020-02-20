@@ -57,7 +57,9 @@ We try to compare Beacon Hill with South Boston, as it is considered as one of t
 
 ![6](Images/intfinish.jpg)
 
+E- Elaborate | N - Normal | S - Sub Standard
 
+We compare the interior finishes where we find
 
 ![7](Images/kitchenstyle.jpg)
 
@@ -80,6 +82,9 @@ Conclusion
 
 --> Preferred by Millenials
 
+South Boston is home to both long-time residents and a new wave of young professionals who are drawn to the area’s open space, emerging nightlife, and easy access to downtown. 
+
+The neighborhood boasts beaches and waterfront parks including Carson Beach, L Street Beach, Pleasure Bay, and the Strandway. 
 
 
 
