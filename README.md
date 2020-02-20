@@ -21,5 +21,7 @@ Reference
 
 ----------------------------------------
 
-![landuse](Images/'land use'.jpg)
+![land use](Images/land use.jpg)
+
+
 
